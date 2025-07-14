@@ -36,9 +36,8 @@ EDA_HousePrice.ipynb - Full EDA notebook
 README.md - Project overview and usage guide
 How to Use
 ----------
-1. Clone this repo:
- git clone https://github.com/yourusername/house-price-eda.git
- cd house-price-eda
+1. Clone this repo
+ 
 2. Download the dataset from:
  https://www.kaggle.com/datasets/shree1992/housedata
 3. Rename the file as data.csv and place it in the same directory.
